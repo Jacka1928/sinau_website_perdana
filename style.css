@@ -44,7 +44,7 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 70vh;
+    height: 80vh;
 }
 
 .a-content {
@@ -65,8 +65,8 @@ html{
 }
 
 .img-content {
-    width: 30%;
-    height: 30%;
+    width: 50%;
+    height: 50%;
 }
 
 .container-footer {
